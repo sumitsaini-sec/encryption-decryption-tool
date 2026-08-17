@@ -1,0 +1,15 @@
+INTERNSHIP PROJECT 3 — SUBMISSION PACKAGE
+
+Project: Encryption / Decryption Tool
+
+Included:
+- Source code
+- Requirements
+- README
+- Markdown project report
+- Professional DOCX report
+- Screenshots/evidence
+- Local demonstration outputs
+- Automated tests
+
+Security note: the actual generated encryption key is intentionally excluded from the repository.
